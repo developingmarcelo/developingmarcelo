@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Marcelo Vinicius 👋
 
-<!--
-**developingmarcelo/developingmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim 
+  Sou um desenvolvedor movido pela paixão de criar novos projetos. Estou sempre buscando novas experiências na área e constantemente melhorando minhas habilidades.
+## ⚙ Habilidades
+Frontend: 
 
-Here are some ideas to get you started:
+    HTML, CSS & JavaScript: 1 ano de experiência, focado em projetos voltados para as necessidades do mercado.
+    Adobe Illustrator: 1 ano de experiência em designs vetorizados para personagens gráficos.
+    Adobe Photoshop: 1 ano de experiência em criação de design para jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Backend:
+
+    MySQL: 1 semestre de experiência com banco de dados.
+    C#: 2 anos de experiência, nível intermediário na linguagem.
+    Python: Introdução breve.
+    C++: Conhecimento básico.
+  
